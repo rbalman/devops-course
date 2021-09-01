@@ -1,0 +1,38 @@
+### Research Tasks:
+- You login into the terminal and you see like this -> `$` 0r `#` .
+what is difference between?
+
+- what does `whoami` command does?
+- what does `date` command shows?
+- what does `hostname` command shows?
+- what does `uname` command shows?
+- My supervisor wanted to know the kernal version of the OS. how to find with command?
+- My supervisor wanted to know the which lsb release of OS we are - using. how to see?
+- what does `who` command does?
+- what do `id` command indicate?
+- what is `alias` in Linux?
+- what is essence of `free` command?
+- How to see the environment variables in linux?
+- How do you compare the two files?
+- what does the `uptime` shows?
+- How do you search the exact pattern and print the before and after lines with search pattern ?
+- what does `mount` command do?
+- Explain the `shred command`
+- what does `last` command shows?
+- what does `wget` command do?
+- Is it legal to edit Linux Kernel?
+- What is the advantage of Linux?
+- Define shell
+- Name some shells that are commonly used in Linux.
+- If you have saved a file in Linux. Later you wish to rename that file, what command is designed for it?
+- Define inode.
+- If the programmer wishes to execute an instruction at the specified time. Which command is used?
+- Explain process id.
+- What is Swap Space?
+- What is BASH?
+- Suppose your company is recently switched from Microsoft to Linux and you have some MS Word document to save and work in Linux, what will you do?
+- Is Linux Operating system virus free?
+- What are the modes used in VI editor?
+- How to exit from vi editors?
+- what does `cal` command shows?
+- using `cal` command show command for your birthday year month day

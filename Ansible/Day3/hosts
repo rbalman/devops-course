@@ -1,0 +1,4 @@
+[my_vms]
+ubuntu ansible_host=localhost ansible_user=vagrant ansible_port=2222
+centos ansible_host=localhost ansible_user=vagrant ansible_port=2200
+
